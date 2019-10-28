@@ -1,0 +1,10 @@
+Package: com.MyRepo.myFile
+Version: 0.0.1
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Section: Tweaks
+Filename: ./debs/com.MyRepo.MyFile_0.0.1_iphoneos-arm.deb
+Description: This is an example tweak.
+Name: Tweak
+Author: TheAuthor
+Maintainer: TheMaintainer
